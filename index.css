@@ -52,12 +52,23 @@ background-color: white;
 .aling-right{
   float: right;
   margin-left:20px; ;
+  padding: 5px;
 }
 .aling-left{
   float: left;
   margin-right:20px;;
+  padding: 5px;
 }
 img{
   width: 200px;
   height: 150px;
+}
+.border-dashed{
+border-style: dashed;
+}
+.border-dotted{
+border-style: dotted;
+}
+.border-rounded {
+  border-radius: 200px;
 }
