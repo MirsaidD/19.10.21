@@ -16,3 +16,48 @@
 .text-italic {
   font-style: italic;
 }
+.text-blue{
+color: blue;
+}
+.text-red{
+  color: red;
+}
+.text-green{
+color: green;
+}
+.text-yellow{
+color: yellow;
+}
+.text-white{
+  color: white;
+}
+.bg-blue{
+background-color: blue;
+}
+.bg-red {
+background-color: red;
+}
+.bg-green{
+background-color: green;
+}
+.bg-yellow{
+background-color: yellow;
+}
+.bg-white {
+background-color: white;
+}
+.border{
+  border: 2px solid grey;
+}
+.aling-right{
+  float: right;
+  margin-left:20px; ;
+}
+.aling-left{
+  float: left;
+  margin-right:20px;;
+}
+img{
+  width: 200px;
+  height: 150px;
+}
