@@ -72,3 +72,42 @@ border-style: dotted;
 .border-rounded {
   border-radius: 200px;
 }
+.btn{
+  border: white solid white;
+  border-radius: 5px;
+  padding: 9px 9px;
+}
+.btn-blue{
+color:white;
+background-color: blue;
+margin: auto;
+}
+.btn-grey{
+  color:white;
+  background-color: grey;
+}
+.btn-green{
+background-color: green;
+}
+.btn-red{
+background-color: red;
+}
+.btn-yellow{
+background-color: red;
+}
+.btn-lightblue{
+background-color: rgb(126, 152, 230);
+}
+.btn-white{
+background-color: white;
+}
+.btn-brown{
+background-color: brown;
+}
+div {
+  margin-left: 270px;
+}
+.btn-small {
+  font-size: 12px;
+  padding: 8px;
+}
