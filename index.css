@@ -1,0 +1,18 @@
+.text-right {
+  text-align: right;
+}
+.text-center {
+  text-align: left;
+}
+.text-justify {
+  text-align: justify;
+}
+.text-bold {
+  font-weight: bold;
+}
+.text-underline {
+  text-decoration: underline;
+}
+.text-italic {
+  font-style: italic;
+}
